@@ -2,6 +2,8 @@
 
 ## Project Overview
 This PowerBI project focuses on analysisng revenue, occupancy, and other key metrics in the hospitality sector across multiple cities.
+### Live Dashboard
+You can view the interactive dashboard [here]
 ## Key Steps
 ### Data Prepration(ETL)
 - Performed data cleaning and transformation
