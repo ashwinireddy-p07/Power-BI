@@ -5,7 +5,7 @@
 
 This project invovled analyzing actual vs. target sales performance across different team members using Power BI.
 ### Live Dashboard
-You can view the interactive dashboard [here](
+You can view the interactive dashboard [here](https://github.com/ashwinireddy-p07/Power-BI/blob/main/Sales%20Analysis.pbix)
 
 
 **Key steps followed-**
