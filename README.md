@@ -3,7 +3,9 @@
 ## Project Summary
 
 
-This project invovled analyzing actual vs. target sales performance across different team members using Power BI
+This project invovled analyzing actual vs. target sales performance across different team members using Power BI.
+### Live Dashboard
+You can view the interactive dashboard [here](
 
 
 **Key steps followed-**
